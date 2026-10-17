@@ -104,3 +104,8 @@ Each event includes `id`, `kind` (`medication`, `problem`, `note`, `correction`,
 ## Future enhancements (not promised in v1)
 
 Private cloud synchronization, charting, regimen comparison, reminders, offline app caching, and advanced reporting can be considered after the basic event logger is working reliably.
+
+
+## Investigation milestone — 17 October 2026
+
+**DILEMMA-001:** The first reported dilemma is a planned 16:30 Half Sinemet CR dose not taken as of the afternoon report, in the context of mild manageable seated dyskinesia, no reported dystonia and no dyskinetic fatigue. The patient hypothesizes that the added Kemadrin exposure may be altering the perceived levodopa requirement. See [17 October diary](diary/2026-10-17.md). The exact observation time and subsequent medication decision remain unknown. This is an observation and hypothesis, not confirmation of overmedication or a dose-change instruction.
